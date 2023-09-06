@@ -9,11 +9,11 @@ The goal was to implement a simple calculator to show the basics of xml and kotl
 
 The following **required** functionality is completed:
 
-* [ ] User sees the grid of numbers, and functions, and the larger text window at the top
-* [ ] User can click on any number, ., C, %, and +/- and get the expected result
-* [ ] Top textview has textAlignment set to “textEnd”, textSize as 80sp, and textStyle is “bold”
-* [ ] The “0” button occupies twice the space as other buttons (in terms of width).
-* [ ] Every component has a margin of 2dp and a text size of 30 sp (except the top textView).
+* [x] User sees the grid of numbers, and functions, and the larger text window at the top
+* [x] User can click on any number, ., C, %, and +/- and get the expected result
+* [x] Top textview has textAlignment set to “textEnd”, textSize as 80sp, and textStyle is “bold”
+* [x] The “0” button occupies twice the space as other buttons (in terms of width).
+* [x] Every component has a margin of 2dp and a text size of 30 sp (except the top textView).
 The following **extensions** are implemented:
 
 * A style for the buttons in the grid, making updating the application in the future much easier
