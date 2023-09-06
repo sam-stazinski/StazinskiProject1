@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stazinski Project 1</string>
+    <string name="current_number">0</string>
+    <string name="past_number">0</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+            <style name="StazButtonStyle">
+                <item name="android:layout_width">1dp</item>
+                <item name="android:layout_height">match_parent</item>
+                <item name="android:layout_weight">1</item>
+                <item name="android:textSize">@dimen/text_size</item>
+                <item name="android:layout_margin">@dimen/button_margin</item>
+                <item name="android:padding">1dp</item>
+                <item name="android:backgroundTint">@color/forestGreen</item>
+            </style>
+
+
+</resources>
